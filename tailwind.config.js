@@ -14,8 +14,9 @@ export const theme = {
   container: {
     center: true,
     padding: '1rem',
+    maxWidth: '100%',
     screens: {
-      '2xl': '1400px',
+      '2xl': '100%',
     },
   },
   extend: {
